@@ -1,0 +1,15 @@
+C:\Study\other_files\help\methods\bin\Debug\net7.0\methods.exe
+C:\Study\other_files\help\methods\bin\Debug\net7.0\methods.deps.json
+C:\Study\other_files\help\methods\bin\Debug\net7.0\methods.runtimeconfig.json
+C:\Study\other_files\help\methods\bin\Debug\net7.0\methods.dll
+C:\Study\other_files\help\methods\bin\Debug\net7.0\methods.pdb
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.csproj.AssemblyReference.cache
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.AssemblyInfoInputs.cache
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.AssemblyInfo.cs
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.csproj.CoreCompileInputs.cache
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.dll
+C:\Study\other_files\help\methods\obj\Debug\net7.0\refint\methods.dll
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.pdb
+C:\Study\other_files\help\methods\obj\Debug\net7.0\methods.genruntimeconfig.cache
+C:\Study\other_files\help\methods\obj\Debug\net7.0\ref\methods.dll
